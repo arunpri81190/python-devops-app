@@ -33,8 +33,14 @@ docker pull arun3511/python-devops-app:latest docker stop python-devops-app || t
 Flask app starting... GitHub webhook initialized — waiting for push events... 
 📸 Screenshots (Add these to your repo)
 •	Jenkins build console
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/708cac82-dc2e-480a-878d-ec6db844392a" />
+
 •	GitHub webhook settings
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/43047401-298b-4fd2-8057-f7ee9e2a9fcb" />
+
 •	Flask app in browser
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8fae8111-5e4d-46c6-ae70-e0aabf9c9b7f" />
+
 🧠 What I Learned
 •	Setting up Jenkins for GitHub integration
 •	Automating Docker container lifecycle
