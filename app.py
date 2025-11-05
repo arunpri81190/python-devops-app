@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return '✅ Webhook initialized: Jenkins is ready to build on push!'
+    return '✅ Webhook initialized: Jenkins is ready to build on push!, Assesment completed!!!'
 
 if __name__ == '__main__':
     print('🚀 Flask app starting...')
